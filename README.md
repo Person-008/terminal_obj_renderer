@@ -9,12 +9,12 @@ only shows anything after any input, you will probably also want to zoom out in 
 
 keys were partly chosen at random
 
-wasd to move around
-y and x to go up/down
-o to switch between rendering modes
-r to switch between projection modes
-1 - 9 to load models (only 1 - 3 actually load unique models, the others load model 1)
-arrow keys to rotate camera
-q to quit
-l / k to rotate the light direction
-j to show mask of rendered geometry
+wasd to move around  
+y and x to go up/down  
+o to switch between rendering modes  
+r to switch between projection modes  
+1 - 9 to load models (only 1 - 3 actually load unique models, the others load model 1)  
+arrow keys to rotate camera  
+q to quit  
+l / k to rotate the light direction  
+j to show mask of rendered geometry  
