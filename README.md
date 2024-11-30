@@ -13,7 +13,8 @@ wasd to move around
 y and x to go up/down  
 o to switch between rendering modes  
 r to switch between projection modes  
-1 - 9 to load models (only 1 - 3 actually load unique models, the others load model 1)  
+1 - 7 to load models (only 1 - 3 actually load unique models, the others load model 1)  
+8 and 9 scale the projected image up/ down  
 arrow keys to rotate camera  
 q to quit  
 l / k to rotate the light direction  
